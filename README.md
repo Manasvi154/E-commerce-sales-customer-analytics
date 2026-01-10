@@ -53,9 +53,11 @@ This project focuses on analyzing an e-commerce dataset using **SQL** to derive 
 ---
 
 ## Project Structure
+<pre>
 ├── 01_schema.sql -- Database schema (CREATE TABLE statements)
 ├── 03_queries.sql -- Analytical SQL queries
 ├── README.md
+</pre>
 
 ---
 
