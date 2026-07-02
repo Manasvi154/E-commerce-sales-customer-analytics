@@ -5,14 +5,14 @@ End-to-end BI solution analyzing 100K+ real-world e-commerce records using MySQL
 
 ## Business Impact
 
-Total Sales Revenue - 13.59M
-Customer Orders - 99K
-Unique Customers - 96K
-Products Sold - 113K+
-Top Revenue Category - Health Beauty
-Highest Revenue Region - São Paulo (SP)
-Most Used Payment Method - Credit Card
-Average Delivery Time - ~12 Days
+- Total Sales Revenue - 13.59M
+- Customer Orders - 99K
+- Unique Customers - 96K
+- Products Sold - 113K+
+- Top Revenue Category - Health Beauty
+- Highest Revenue Region - São Paulo (SP)
+- Most Used Payment Method - Credit Card
+- Average Delivery Time - ~12 Days
 
 
 ## Tech Stack
@@ -46,7 +46,7 @@ Phase 2 — Power BI: Built a Star Schema data model, developed 25+ DAX measures
 
 
 ## Repository Structure
-
+```text
 E-Commerce-BI-Sales-Analytics/
 │
 ├── Dataset/                  # Raw CSV files
@@ -54,6 +54,6 @@ E-Commerce-BI-Sales-Analytics/
 ├── Power BI Dashboard/       # .pbix file
 ├── Dashboard Screenshots/    # All 5 dashboard page previews
 └── README.md
-
+```
 If you found this useful, consider giving it a ⭐
 
